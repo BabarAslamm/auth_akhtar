@@ -1,0 +1,20 @@
+{
+    "name": "insyghts/authentication",
+    "description": "custom authentication",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Insyghts\\Authentication\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mac",
+            "email": "no-reply@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "insyghts/common": "~1.0"
+    }
+}
